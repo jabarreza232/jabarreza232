@@ -63,6 +63,10 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
+   &emsp;
+  <a href="https://id.wikipedia.org/wiki/XML" target="_blank">
+    <img alt="XML" src="https://idmetafora.com/img/kenali-pengertian-xml-dan-perbedaannya-dengan-html-718.jpg">
+  </a> 
 </p>
 
  ### 👉 Software & Tools
