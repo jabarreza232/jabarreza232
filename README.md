@@ -8,7 +8,7 @@
 
 ## :sassy_man:  About me
 - :school: I am a senior High School student at SMK Taruna Bhakti Depok
-- :trophy: -IDCamp 2020 Developer Challenge: Mengubah Dunia Melalui Inovasi Teknologi (IDcamp)
+- :trophy: -IDCamp 2020 Developer Challenge: Mengubah Dunia Melalui Inovasi Teknologi (IDcamp)<br>
 	   -DBS Live More Society: Developer Challenge 2 (Bank DBS Indonesia)
 - :technologist: I love using Software as a solution for every `Problem`
 - :briefcase: I’m currently work as an Android Engineer at PT Ilab Solusi Pratama.
