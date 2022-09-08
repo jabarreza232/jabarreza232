@@ -11,7 +11,7 @@
 - :trophy: -IDCamp 2020 Developer Challenge: Mengubah Dunia Melalui Inovasi Teknologi (IDcamp)<br>
 	   -DBS Live More Society: Developer Challenge 2 (Bank DBS Indonesia)
 - :technologist: I love using Software as a solution for every `Problem`
-- :briefcase: I’m currently work as an Android Engineer at PT Ilab Solusi Pratama.
+- :briefcase: I’m currently work as an Android Engineer at   <a href="https://www.ilabsolusi.com/" target="_blank">PT Ilab Solusi Pratama.</a>
 - :nerd_face: Always `learning new things`
 
 <br>
