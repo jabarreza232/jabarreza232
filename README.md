@@ -8,8 +8,8 @@
 
 ## :sassy_man:  About me
 - :school: I am a senior High School student at SMK Taruna Bhakti Depok
-- :trophy: -<a href="https://www.dicoding.com/challenges/619" target="_blank"> IDCamp 2020 Developer Challenge: Mengubah Dunia Melalui Inovasi Teknologi (IDcamp)</a><br>
-	 -<a href="https://www.dicoding.com/challenges/333">DBS Live More Society: Developer Challenge 2 (Bank DBS Indonesia)</a>
+- :trophy: -<a href="https://www.dicoding.com/users/jabarreza232/winningapps" target="_blank"> IDCamp 2020 Developer Challenge: Mengubah Dunia Melalui Inovasi Teknologi (IDcamp)</a><br>
+	 -<a href="https://www.dicoding.com/users/jabarreza232/winningapps">DBS Live More Society: Developer Challenge 2 (Bank DBS Indonesia)</a>
 - :technologist: I love using Software as a solution for every `Problem`
 - :briefcase: I’m currently work as an Android Engineer at   <a href="https://www.ilabsolusi.com/" target="_blank">PT Ilab Solusi Pratama.</a>
 - :nerd_face: Always `learning new things`
