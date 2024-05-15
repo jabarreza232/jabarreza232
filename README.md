@@ -7,7 +7,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a senior High School student at SMK Taruna Bhakti Depok
+- :school: I am studying at Dian Nusantara University, majoring in Computer Engineering for my bachelor's degree
 - :trophy: -<a href="https://www.dicoding.com/users/jabarreza232/winningapps" target="_blank"> IDCamp 2020 Developer Challenge: Mengubah Dunia Melalui Inovasi Teknologi (IDcamp)</a><br>
 	 -<a href="https://www.dicoding.com/users/jabarreza232/winningapps">DBS Live More Society: Developer Challenge 2 (Bank DBS Indonesia)</a>
 - :technologist: I love using Software as a solution for every `Problem`
