@@ -17,8 +17,9 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jabarreza232&theme=algolia" alt="jabarreza232" /></p>
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jabarreza232&theme=dracula&show_icons=true&hide_border=true&count_private=true
+" alt="jabarreza232" /></p>
+<!-- https://github-readme-streak-stats.herokuapp.com/?user=jabarreza232&theme=algolia -->
 <br>
 <br>
 
